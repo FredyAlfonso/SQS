@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: ASIAQF3LPAFDNJCKPH6O
+      secret-key: VwlaqLvuT27yp13FHptFX5RFEk4azcTbcYaXkRgK
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/012573409606/cola2
